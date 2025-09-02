@@ -7,6 +7,7 @@ Feel free to use them.
 ## Table of contents
 
 - [Geoguessr](#geoguessr)
+- [Japan](#japan)
 
 ## Geoguessr
 
